@@ -19,7 +19,7 @@
     "@graphql-portal/stripe": "^0.2.3",
     "@graphql-portal/twitter": "^0.3.3",
     "@graphql-portal/weatherbit": "^0.2.3",
-    "ajv": "8.6.1",
+    "ajv": "8.6.2",
     "cosmiconfig": "^7.0.0",
     "find-yarn-workspace-root": "^2.0.0",
     "nanoid": "^3.1.20",
