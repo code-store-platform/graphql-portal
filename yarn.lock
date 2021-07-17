@@ -4266,10 +4266,10 @@ date-fns@2.19.0, date-fns@2.21.1, date-fns@2.21.3:
   resolved "https://registry.yarnpkg.com/date-fns/-/date-fns-2.21.1.tgz#679a4ccaa584c0706ea70b3fa92262ac3009d2b0"
   integrity sha512-m1WR0xGiC6j6jNFAyW4Nvh4WxAi4JF4w9jRJwSI8nBmNcyZXPcP9VUQG+6gHQXAmqaGEKDKhOqAtENDC941UkA==
 
-dd-trace@^0.36.0:
-  version "0.36.1"
-  resolved "https://registry.yarnpkg.com/dd-trace/-/dd-trace-0.36.1.tgz#3bea966ec3c67b96a298f20cd56dca6b856da822"
-  integrity sha512-4iPy6dJxaA0Yv9rZQa7ZGaTwyPI/m1adeUUhAqAgZ+mrzyz8TNSEeqEPohzECzgxNfLDjioGryJy4TblYED9ig==
+dd-trace@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/dd-trace/-/dd-trace-1.0.0.tgz#33bb92aaa491b1eabfd20ab0f8504507266c4f96"
+  integrity sha512-cbilNBik/wqRq6gsphLqux9WMOnkqBV+OJozCpecJNsfCZ0NITbqAEfGODtXtef0s2j/sIQx9cF5J+Ipbf+uJw==
   dependencies:
     "@types/node" "^10.12.18"
     form-data "^3.0.0"
